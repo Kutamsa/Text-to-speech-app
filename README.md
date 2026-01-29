@@ -1,4 +1,4 @@
-Text-to-Speech Application that:
+Text-to-Speech Application that deos the following in a browser:
 
 - Converts any text to spoken audio
 - Lets users choose from available system voices
